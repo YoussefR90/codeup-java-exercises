@@ -18,3 +18,6 @@ public class AssessmentPractice {
         getMallardDetails(one);
      }
 }
+     git clone https://github.com/YoussefR90/repo.git
+        Username: YoussefR90
+        Password: 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
